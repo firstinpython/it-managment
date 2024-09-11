@@ -1,0 +1,6 @@
+pip~=21.2.3
+pytz~=2024.2
+Django~=3.2.25
+sqlparse~=0.5.1
+asgiref~=3.8.1
+setuptools~=57.4.0
